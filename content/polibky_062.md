@@ -3,8 +3,6 @@ title: Hraběti Fortunianovi San Vitali
 contentType: prose
 ---
 
-  
-
 Dopis Vaší Vzácnosti je mi neobyčejně drahý – ne protože by býval byl nutný, aby ve mně utvrdil víru ve Vaši dávnou náklonnost, protože o té mě ujišťuje mnoho důkazů; ale protože mi dal příležitost, nejen abych se smál prázdné zlovůli nepřátel, ale především abych se těšil pravým potěšením přátel, mezi něž počítám v první řadě Vaši Vzácnost, neboť vím, jakými city účasti provází vždy mé osudy. Jestliže naděje těch chudinků, kteří roztrousili pověst o mé smrti, nemá jinou svíčku, půjde spát potmě, protože jaktěživ po celý svůj život jsem nebyl ani zdravější, ani slavnější, než jsem nyní.
 
 Jsem teď, po tolika letech putování zas ve své vlasti, přijat a hýčkán tolika poctami a tolika potlesky, že já, který znám příliš dobře své skrovné zásluhy, zůstávám nadobro zmaten a nemohu než pociťovat stud sám nad sebou.
