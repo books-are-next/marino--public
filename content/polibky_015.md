@@ -3,6 +3,8 @@ title: Mlčení, které mluví
 contentType: prose
 ---
 
+<section>
+
 _Paní, chtěl bych vám mnoho říci,  
 brání mi však můj jazyk rozechvělý;  
 mlčí-li ústa, mluví pohled vřelý!  
@@ -11,3 +13,5 @@ to, co chci, nevím. Vy však, která dlíte
 v srdci a myšlenkách mých, smíte  
 v mých myšlenkách teď zřít  
 i v srdci mém, co vlastně chtěl bych chtít._
+
+</section>

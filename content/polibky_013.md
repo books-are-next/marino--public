@@ -3,6 +3,8 @@ title: Milostný dopis
 contentType: prose
 ---
 
+<section>
+
 _Bílý liste, myšlenek mých  
 věrný tajemníku, půjdeš nyní sám,  
 kde otevře tě ruka, jež otevře mi hruď.  
@@ -13,3 +15,5 @@ Ale oč více potom budeš mít,
 jestli, chtějíc tvé uzly rozuzlit,  
 skloní svá ústa níž a víc:  
 z perel a rubínů polibků na tisíc!_
+
+</section>

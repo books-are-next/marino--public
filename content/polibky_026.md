@@ -3,7 +3,9 @@ title: Žárlivost
 contentType: prose
 ---
 
-     _Červotoči, pilníku lásky, strázni, která  
+<section>
+
+_Červotoči, pilníku lásky, strázni, která  
 hryžeš mi srdce v každém okamžení,  
 mysli druhého ty bodče podezření,  
 biči duší od rána do večera,  
@@ -17,3 +19,5 @@ jenž otravuješ zem a čisté nebe kalíš,
      kde láska ne, jen zášť navěky raší,  
 jdi, stíne z ledu, k těm, co propast má již.  
 Však ani peklo, vím, tě nezastraší._
+
+</section>

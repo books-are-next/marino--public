@@ -3,7 +3,9 @@ title: Hvězdy
 contentType: prose
 ---
 
-     _Teď své nadání a rýmy  
+<section>
+
+_Teď své nadání a rýmy  
 k vám obracím, hvězdy jasné,  
 světla nebes, jase přímý,  
 mihotavé ohně krásné,  
@@ -78,3 +80,5 @@ hvězdy, požár z jisker vzňatý,
 zdravím, zbožností jsa zpitý,  
 jako portrét věrojatý  
 Mariiných hvězdných světel svatých._
+
+</section>

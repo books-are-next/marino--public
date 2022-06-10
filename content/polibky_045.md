@@ -3,7 +3,9 @@ title: Murtola literát
 contentType: prose
 ---
 
-     _Tahleta bestie začarovaná, sloní  
+<section>
+
+_Tahleta bestie začarovaná, sloní  
 před luzou doktorský biret si nasazuje,  
 Agamemnóna ctí, Aenea přežvykuje  
 a tak se vzděláním a učeností honí.  
@@ -17,3 +19,5 @@ mezi spisovatele, chtě literáta hrát,
      prazatracený vztek probudí nutkání  
 přes hlavu praštit ho komentovaným Dantem  
 s ilustracemi, starého vydání._
+
+</section>

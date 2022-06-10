@@ -3,6 +3,8 @@ title: Žádaný polibek
 contentType: prose
 ---
 
+<section>
+
 _Že chci jedno políbení  
 koušeš prst a hrozíš hned,  
 krutá puso, chceš mě v křivdě vyhánět?  
@@ -11,3 +13,5 @@ Polib mě! Pak, potěšení,
 kousej, hroz a křivdi si mi,  
 vždyť, byť kousavé, v tom okamžení  
 z hrozeb a křivd zbude jen políbení._
+
+</section>

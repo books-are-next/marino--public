@@ -3,7 +3,9 @@ title: Sen
 contentType: prose
 ---
 
-     _Na stinnou noc přichází zas má paní  
+<section>
+
+_Na stinnou noc přichází zas má paní  
 taková, jak ji formuji v svém snění,  
 a hrubým slohem dát chci zpodobení,  
 jak neznám ji, tak plná slitování.  
@@ -17,3 +19,5 @@ a slast i spánek prchá, unikaje,
      Proradná lásko, v tomhle utrpení,  
 jak čekat mám, že ta snad slitovná je,  
 co bere mi i lhaná potěšení?_
+
+</section>

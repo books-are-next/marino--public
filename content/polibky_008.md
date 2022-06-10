@@ -3,6 +3,8 @@ title: Válka polibků
 contentType: prose
 ---
 
+<section>
+
 _Zraňte se, zraňte s vášní zlou,  
 vy zmije útočivé,  
 vy válečnice sladké odvahou,  
@@ -12,3 +14,5 @@ své bodající zbraně!
 Smrtí ale, ať životy se stanou,  
 příměří útočením,  
 ať šípy jazyky jsou a rány políbením!_
+
+</section>

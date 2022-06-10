@@ -3,7 +3,9 @@ title: Na ňadra své paní
 contentType: prose
 ---
 
-     _Ach, prs a prs, jak krásná stezka strání  
+<section>
+
+_Ach, prs a prs, jak krásná stezka strání  
 jde po ňadrech, z nichž Amor saje hbitě.  
 Mé divé srdce, jakou plachou laní  
 jsi skryto tam, když oči uloví tě?  
@@ -17,3 +19,5 @@ neriskuj tak, byť kročej tvůj byl smělý,
      Sklízej a mlč jen, šťastný pěstiteli,  
 v té božské brázdě (bez závoje ale)  
 ze sémě touhy žeň polibků vřelých!_
+
+</section>

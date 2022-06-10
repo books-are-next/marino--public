@@ -3,7 +3,9 @@ title: Leander
 contentType: prose
 ---
 
-     _Hluboká noc rozepjala  
+<section>
+
+_Hluboká noc rozepjala  
 křídla, v letu mlčenlivá,  
 jen chraplavým rachocením břehy zněly,  
 když v moři, z nějž bouře řvala,  
@@ -110,3 +112,5 @@ padla; pláž jí hrobem byla.
 Tak plující Lykón v moři zpíval  
 a nebylo rybáře, jenž v tísni  
 neproléval by své slzy při té písni._
+
+</section>

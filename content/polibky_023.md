@@ -3,7 +3,9 @@ title: Nedokonalé potěšení
 contentType: prose
 ---
 
-     _Ona je to, jež zdvihá ze dna strázní,  
+<section>
+
+_Ona je to, jež zdvihá ze dna strázní,  
 kdy žádostem vzmach křídel popřán není,  
 slibujíc mnoha strastem potěšení,  
 mé naděje, chabé a choré bázní.  
@@ -17,3 +19,5 @@ když prchne mi za vlnobití zlého?
      Tak jako hráč, jenž čeká v touze chtivé  
 na míč, aby když posléz dostane ho,  
 odrazil jej — a chvatněji než dříve._
+
+</section>

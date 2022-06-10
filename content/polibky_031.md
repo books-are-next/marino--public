@@ -3,6 +3,8 @@ title: Nymfa dojička
 contentType: prose
 ---
 
+<section>
+
 _Když Lydie v poháru venkovském  
 tiskla silou své ruky  
 jak vlnu plodné struky,  
@@ -11,3 +13,5 @@ běl přírody a lásky mojí.
 A nedovedl, nerozlišil jsem,  
 co šťáva je, co ruce ušlechtilé,  
 a nevnímal, než v mléce mléko bílé._
+
+</section>

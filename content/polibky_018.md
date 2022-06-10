@@ -3,6 +3,8 @@ title: Cop vyšívaný perlami
 contentType: prose
 ---
 
+<section>
+
 _Ta krásná hříva zlacená,  
 cena žalu zlého,  
 uzda srdce mého,  
@@ -12,3 +14,5 @@ Zde jsem já, kdo v slasti líbám
 a bohatým uzlem hýbám  
 žlučí milovníkům, kterým povídám:  
 — Zlato, hle! A za něj koupen byl jsem sám!_
+
+</section>

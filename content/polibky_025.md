@@ -3,7 +3,9 @@ title: Láska bázlivá a mlčenlivá
 contentType: prose
 ---
 
-     _Planu, však planutí, co v hloubi pramení,  
+<section>
+
+_Planu, však planutí, co v hloubi pramení,  
 jež není možno mi odhalit, krásná paní,  
 jak nový Tyfón, utlačen v svém vzplání  
 skrývám pod velikou skalinou mlčení.  
@@ -17,3 +19,5 @@ ta svoji jasnou zář přec v očích ukazuje.
      Tak střecha častokrát, když pod ní požár vzpřímí  
 svůj plamen svítivý, žár, který uvnitř tu je,  
 zjevuje okolí vikýři vysokými._
+
+</section>
