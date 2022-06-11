@@ -3,6 +3,8 @@ title: Bludné kštice
 contentType: prose
 ---
 
+<section>
+
 _Ach, kštice bludné, kštice  
 zlaté, v prstýnkách kudrnaté,  
 ach, jak krásné, poletujíce  
@@ -10,3 +12,5 @@ ach, jak krásné, poletujíce
 Tak pěkně žertujíce bloudíváte  
 a věru, v sladkých poblouděních jdete;  
 nebluďte však, když srdce svazujete!_
+
+</section>

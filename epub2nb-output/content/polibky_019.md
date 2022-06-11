@@ -3,7 +3,9 @@ title: Na ústa své paní
 contentType: prose
 ---
 
-     _Ve sněhu tváře, z něhož bílá jásá,  
+<section>
+
+_Ve sněhu tváře, z něhož bílá jásá,  
 pod dvě Slunce a pod dvě růže skryla,  
 co nevím, zdali příroda či krása  
 z orientálních nachů vytvořila;  
@@ -17,3 +19,5 @@ co Gráciím, Amorům lásku dají;
      co sladkostí živoucích v sobě skrývá,  
 co líbezností ve mě šíří malý  
 váš pouhý vzdech: Co polibkům pak zbývá?_
+
+</section>

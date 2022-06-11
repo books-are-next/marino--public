@@ -3,6 +3,8 @@ title: Na smrt své matky
 contentType: prose
 ---
 
+<section>
+
 _Vracím se v pláči zas pozdravit ten kámen,  
 kde ta, co devět lun mě v klíně zavírala,  
 uzavřen nechala svůj popel v stínu thuje.  
@@ -25,6 +27,10 @@ a chtěla dokonce, abych já zavřel svou dlaní
 ústa, odkud tak sladká, tak hojná k nespočítání  
 míval jsem slova a polibky pro svoje vykoupení:  
 teď ležíš utěšena ve věčném odmlčení._
+
+</section>
+
+<section>
 
 _Matko, ty ležíš? Vskutku tedy jasem  
 dvou světel tvých, zsinalých ve tmě šeré,  
@@ -49,6 +55,10 @@ o nic nedbám, nic není po libosti,
 sladkost, aby mi žluč mou rozpustila,  
 když upírá sem oko luna bílá._
 
+</section>
+
+<section>
+
 _Vím, když jsi přítěž míjející v čase  
 odvrhla, matko, a z tvých vlasů hbitě  
 závistná ruka odtrhla hřívu žití,  
@@ -71,6 +81,10 @@ já, stísněn bolestí, marním dny navzdor době;
 já padl a ležím, dokud se nevrátím k tobě,  
 a nenávidím slunce, vždyť nemaje tvůj svit,  
 čím bych byl neznaven, co mohu ještě zřít?_
+
+</section>
+
+<section>
 
 _Bloud je a ubohý, kdo svoji naděj zdejší  
 upíná na tebe, ach, světe klamavý,  
@@ -95,6 +109,10 @@ a volat po všechny hodiny v lada širá:
 jak surový osud, nebesa dobrotivá,  
 jak štědrá příroda, smrt lakomá a chtivá!_
 
+</section>
+
+<section>
+
 _Dobře vzpomínám, kdy hbitě, lehce zcela  
 rozepjal prvně z údolí slzavého  
 tvůj duch peruti k nebi nad hvězdami,  
@@ -117,6 +135,10 @@ tys neplakala a zbožnými světly svými,
 rozjasňujíc temnoty vůkol jimi,  
 s tváří už jasnou, již bolest nekalila,  
 do srdce všechen krutý žal jsi skryla._
+
+</section>
+
+<section>
 
 _A jak (ach, ubožák!), jak jenom já teď mohu  
 vzpomínat bez vzdechů posledních slov tvých vroucích,  
@@ -141,6 +163,10 @@ sil údy viděl jsem zbavené, zmrazované
 tělo pak padnout v zem, bez vlády, bez pomoci,  
 sevřen těžkým snem a nekonečnou nocí._
 
+</section>
+
+<section>
+
 _Zřel jsem to, běda! proč viděl jsem a svoje  
 též nezavřel jsem pláčem oči žalné,  
 než vidět, jak tvé zavřené zem svírá?  
@@ -159,6 +185,10 @@ Ani trýzni by smysly nebránily,
 protože já byl přemožen v té chvíli:  
 nechtěla však Smrt tvrdá, pyšně němá,  
 být v jediném dni milosrdná k dvěma._
+
+</section>
+
+<section>
 
 _Jiný, ach, od těch dob pokrm a vyražení  
 než pláč a trápení a tíži trpké strasti  
@@ -183,6 +213,10 @@ a zvěčnil trýzněmi život, jak budu moci
 a dokud od tebe vzdálen tu pozůstávám,  
 jak jsem tě živou ctil, mrtvou tě oplakávám._
 
+</section>
+
+<section>
+
 _Ty však, ó duše, jež trávíš čas svůj krásný  
 nad nehybným okruhem Všehomíra,  
 oproštěna od kalu pozemskosti,  
@@ -206,6 +240,10 @@ Přijmi s potěchou ze sídla vysokého
 slitovné dílo s lijákem, jenž zní ti,  
 když rozsévám ti pláče víc než kvítí._
 
+</section>
+
+<section>
+
 _Mlč, mlč, kanzóno: ať poustoupí síla  
 chladu inkoustu žáru slz, jež žhavá  
 vylévá bolest, v srdce bodající;  
@@ -215,3 +253,5 @@ Však s žilou básnickou, jež očím dána byla,
 by lásce rovná bolest se projevila,  
 co nevyjádří ruka na papíře,  
 rci, vlhký jazyk pláče v pravé míře._
+
+</section>

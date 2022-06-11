@@ -3,7 +3,9 @@ title: Ostrov spánku
 contentType: prose
 ---
 
-     _Uprostřed řeky leží, která tak přitlumeně  
+<section>
+
+_Uprostřed řeky leží, která tak přitlumeně  
 rozlévá mírné a tiché vody své v dáli  
 a šeptá tak málo a kráčí tak unaveně,  
 že v druhých vyvolá klid a do snu je vhalí.  
@@ -11,6 +13,10 @@ Tady je místo, kam Merkur dorazil neprodleně,
 kde se pozvolna dřímavá Lété valí,  
 od níž mé žezlo, jež mocně vládne a řídí,  
 bere svou schopnost uspávat lidi._
+
+</section>
+
+<section>
 
      _Ostrov ze všech stran objímá a náručí spíná,  
 jak postřehnout můžeš, vlna, jež smrt něžně houpá.  
@@ -21,6 +27,10 @@ jde vnořit perutě, jež voda myje a koupá,
 dřív než je prchavý závoj do stínu vhalí,  
 aby zapomněly, co na nebi pozorovaly._
 
+</section>
+
+<section>
+
      _Hleď, jsou tu mnohé, co koupat peří své pílí,  
 ponořit v ty líné vlny, nešťastné žalem  
 a ztrácejí uvnitř té řeky právě v tu chvíli  
@@ -29,6 +39,10 @@ Jsou nevděčni ti, kteří zvyk si již osvojili
 přízeň a dobrotu zapomnít ve shonu stálém,  
 na listí psát a svěřovat větru vání  
 závazky, sliby a zapřísahání._
+
+</section>
+
+<section>
 
      _Jiné zas vidíš sem ze světa k vysokosti  
 vystupovat tu tam v hanebném poskvrnění,  
@@ -39,6 +53,10 @@ Toť lidé, kteří ze spodiny, z ubohosti
 kde každý zbaven je paměti k blahu svému,  
 že víc stav původní na mysl nepřijde mu._
 
+</section>
+
+<section>
+
      _Ach, pozemských poct obyčej pošetilý,  
 s nímž zapomnění se povždy tak rychle pije,  
 takže náhlou a bezbožnou změnou v té chvíli  
@@ -47,6 +65,10 @@ a nejen druzí, jež vždy v jeho vzpomínce žili,
 vymizí z mysli, vkrátku jak melodie,  
 leč všecka paměť všeho vyhasíná,  
 že už ani sám sebe nevzpomíná._
+
+</section>
+
+<section>
 
      _Je to kraj Snů, do něhož unaveni  
 jsme přišli, když jsme zvolna putovali.  
@@ -57,6 +79,10 @@ a viditelné stěží je jen z dáli.
 Tu Spánek — vyhnán Jupiterem byl —  
 vyhoštěn z nebes říši založil._
 
+</section>
+
+<section>
+
      _Aby však šlo přeplout tu vlnu milou,  
 bude dobré připravit dřevo řádné.  
 A hle, zde v lodi útlé s tváří čilou  
@@ -65,6 +91,10 @@ Ittatón, Tarassios veslují plnou silou,
 Plútoklés, Morfeus stejným veslem vládne.  
 Byl Fantasios, galejník ten starý,  
 u kormidla, zkušený nad korsáry._
+
+</section>
+
+<section>
 
      _Ztekli přístav, kde v jantarové sloji  
 bdícímu ptáku chrám je zasvěcený,  
@@ -75,6 +105,10 @@ u vchodu omývají hráze stěny
 a tajný šum působí, řinouce se,  
 Všemušle prvý, Černavý druhý zve se._
 
+</section>
+
+<section>
+
      _Kol města v kruhu stinný les se kývá,  
 jež útěchou zemdlené tělo sílí.  
 Mandragora, jež tíží, ochromivá  
@@ -83,6 +117,10 @@ Opium mdlé mezi tím odpočívá,
 Plch s Jezevcem se v stín tu uchýlili.  
 Sídlit v těch větvích ptáky jímá strach,  
 krom Sýčka, Výra, Netopýra v tmách._
+
+</section>
+
+<section>
 
      _Barevné domy a čtvrti Iridiny  
 jsou v temných světlech šerem ukrývané.  
@@ -93,6 +131,10 @@ na pole líných, věčně neorané,
 a po nich zhusta falešné či pravé  
 sny vycházejí děsivé, zlé a dravé._
 
+</section>
+
+<section>
+
      _Z dvou ostatních každá se k řece dívá,  
 první ze sloni tehdy otvírá se,  
 kdy temná půlnoc čas nejpozdější bývá.  
@@ -101,6 +143,10 @@ Onou člověku, prolhaná, nepravdivá,
 tlupa obrazů vychází vysmívat se.  
 Tou druhou však berou si bludné duše  
 vidění pravdy častokrát při předtuše._
+
+</section>
+
+<section>
 
      _Krásný pár vstoupil vchodem ze slonoviny  
 a stíny byly zlomeny svity všemi.  
@@ -111,6 +157,10 @@ zřít asyl Spánku mezi jeskyněmi
 zahalený a Spánek pod tím krovem  
 odpočíval na loži ebenovém._
 
+</section>
+
+<section>
+
      _Ach, kolika lží zjevy, hrůzné v tváři,  
 tak fantastické obcházejí všady,  
 Sny, Boha sokové, co záři Slunce maří,  
@@ -119,6 +169,10 @@ Harpyje, Hydry, Kentauři, Minotauři,
 Géryoni, Briareové jsou tady.  
 Ten Siréně, ten Sfinze podobá se,  
 ten údy Kyklop a ten Faun je zase._
+
+</section>
+
+<section>
 
      _Ten rohy Vola, srst jak na Opici,  
 ten hlava je a v hlavě oči chybí,  
@@ -129,6 +183,10 @@ slechy zametá zemi bez pochyby.
 Jiný husí nohu, sokolí dráp tasí,  
 oko na břiše a kolem pupku řasy._
 
+</section>
+
+<section>
+
      _Zřel bys obličejík andělský a líčka,  
 pak jak na podnoží končí noha čilá,  
 choboty Slona a vzteklé tváře Psíčka,  
@@ -137,6 +195,10 @@ paže Giganta, poprsí Trpaslíčka,
 hřeben Kohouta, peruti od Motýla,  
 chvost Páva, Pegasa a Noha při únosu,  
 vřetena místo noh, píšťaly místo nosů._
+
+</section>
+
+<section>
 
      _Někdo jak lodi smolou napuštěné,  
 letí a plachtí, s vánky prudce pluje,  
@@ -147,6 +209,10 @@ nadme se, splaskne, tělo vyprazdňuje.
 V teřichu dechu hromadí tak mnoho,  
 že, ropucha, praskne a zhebne z toho._
 
+</section>
+
+<section>
+
      _A ty a jiné též ještě víc v znetvoření  
 tu v celcích, zlomcích má, změť krátká to i dlouhá,  
 živoucí fantomy či duchy bez vtělení,  
@@ -156,6 +222,10 @@ jsou čistí, radostní, část luza, jež se rouhá.
 Mnozí jsou nízcí a plebejští gestem, šatem,  
 ti v hávu Králů a Bohů zas přebohatém._
 
+</section>
+
+<section>
+
      _Adónis toho tu rozpoznal, který jemu,  
 když dřímal na Kypru, v kvítí zde nocující,  
 překrásný obraz dal před oči znavenému  
@@ -164,3 +234,5 @@ A již ten loudavý, svádivý prapor k němu
 za noci, jež létem vzcházela, černající,  
 blížil se v tisíci podobách zakuklen,  
 víčka mu zatlačit a odejmout mu den._
+
+</section>

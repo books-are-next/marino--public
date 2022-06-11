@@ -3,7 +3,9 @@ title: Pozvání do stínu
 contentType: prose
 ---
 
-     _Teď, kdy vzduch i zem žhnou a planou bleskem  
+<section>
+
+_Teď, kdy vzduch i zem žhnou a planou bleskem  
 a euros i vánek sotva dýší  
 a, soupeř nebes, kam jen vzhlédnu v tiši,  
 pod šípy slunce, moře, blýská leskem;  
@@ -17,3 +19,5 @@ po celý dlouhý čas větvoví scéna stinná.
      Se mnou se potěšíš, jen z vod a bílých dun  
 uvidíš laškovat, kde břeh se k výši vzpíná,  
 rybu s ptákem a stín se stříbrem vln._
+
+</section>

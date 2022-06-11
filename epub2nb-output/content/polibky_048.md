@@ -3,7 +3,13 @@ title: "Na útěku z\_Neapole"
 contentType: prose
 ---
 
+<section>
+
 _(1600)_
+
+</section>
+
+<section>
 
      _Pryč od otcovských střech, od břehů otčiny,  
 leč nohou chvějící, za zády v dál se stápí,  
@@ -19,3 +25,5 @@ neprchnu před sebou a zloba dostihne mne?
      A jestli líc a přelíbezná ruka  
 kamkoli jdu, mučí a sleduje mne,  
 marná, zlá lásko, útěku jsou muka!_
+
+</section>

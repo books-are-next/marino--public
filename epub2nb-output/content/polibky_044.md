@@ -3,7 +3,9 @@ title: Básníčkovi
 contentType: prose
 ---
 
-     _Básníku o vaši váženou osobičku  
+<section>
+
+_Básníku o vaši váženou osobičku  
 každý den nějaký urputný souboj vzniká:  
 že prý jste ředkvička, tak o vás někdo říká,  
 ten vás má za dítě, jiný zas za opičku.  
@@ -17,3 +19,5 @@ Parnasu směle zvučným srdcem být.
      Já, jenž však po čichu znám vás, i z vašich tónů,  
 myslím, že bylo by lépe vás přivěsit  
 oslíku z Parnasu za zvonek u ohonu._
+
+</section>

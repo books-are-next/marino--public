@@ -3,7 +3,9 @@ title: Píseň polibků
 contentType: prose
 ---
 
-     _Polibky, šťastní druhové,  
+<section>
+
+_Polibky, šťastní druhové,  
 pookřáni ze všech mých zel,  
 jaký nektar dáváte srdci píti;  
 vy rosou čerství duchové,  
@@ -17,6 +19,10 @@ svým necudňoučkým ždáním,
 chaboučkým zasténáním,  
 hle, rubín k rubínu, Amor sblíží dvě šíje  
 a duši nejednu v jediných ústech skryje._
+
+</section>
+
+<section>
 
      _Ta pusa zpíjející,  
 ta Amorova válečnice,  
@@ -33,6 +39,10 @@ jsou kolbiště i klání,
 laskání hanby i ranky úst z vášně vzňaté,  
 které čím hlubší jsou, tím raději je máte._
 
+</section>
+
+<section>
+
      _Válko drahá, v níž vládne klid,  
 v níž sladkostí je hněvu vpád,  
 mrzutost láskou, v půtkách mír je skrytý,  
@@ -47,6 +57,10 @@ polibek, co mi krátí
 život a zas jej vrátí;  
 v mém umírání tu je nová žití cesta,  
 abych byl zraněn víc, zraňuji, zkoušku přestáv._
+
+</section>
+
+<section>
 
      _Teď vlahý, lehký větříček,  
 teď důraz, úsměv na lících,  
@@ -63,6 +77,10 @@ ten zmírá, ten se ztrácí;
 ze smrti onoho tento teď dobře má se  
 a dřív, než zemře ten, onen se zrodí zase._
 
+</section>
+
+<section>
+
      _Suchý je srdce opora,  
 měkký je sladší, prudce zpíjí,  
 méně sladký šepotá, unikaje.  
@@ -77,6 +95,10 @@ Milá i milující,
 líbaná, líbající  
 zná srdce dát i brát, když políbí mě jemně  
 a život se srdcem loupí i věnuje mně._
+
+</section>
+
+<section>
 
      _Zírám a planu, zjasniv zrak,  
 líbám, těším se, líbám znova  
@@ -93,6 +115,10 @@ polibek, políbení,
 vzbouzí mě k slasti, sama rozechvělá,  
 co duše svazuje a roubuje je v těla._
 
+</section>
+
+<section>
+
      _Rozkoší sklána v chvíli tu  
 odchází v tichém vzdechnutí  
 duše na pouť a asyl z mysli ztrácí;  
@@ -108,7 +134,13 @@ kterému rovna není,
 líbajíc druhou, jež láká ke zlíbání,  
 posléze umírá a žije v umírání._
 
+</section>
+
+<section>
+
      _Bláhový jazyku, proboha, zmlkni již,  
 raději sladká ústa slyš,  
 která tě žádají: Mlč, těš se v tichém snění!  
 a zdvojí polibek ke tvému umlčení._
+
+</section>

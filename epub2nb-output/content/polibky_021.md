@@ -3,7 +3,9 @@ title: Žena před zrcadlem
 contentType: prose
 ---
 
-     _Lásko, já pravdu neřekl, když tolikráte  
+<section>
+
+_Lásko, já pravdu neřekl, když tolikráte  
 jsem říci neváhal, že milující není,  
 že její srdce, démant k nedotčení,  
 neproklál šíp tvůj ani jedenkráte.  
@@ -17,3 +19,5 @@ zálibu hledat v svém smrtelném tvaru,
      věz, že ta krása, co tě přitahuje,  
 ne míň než sklo, je z marných, křehkých darů  
 a jako stín se v světle rozptyluje._
+
+</section>

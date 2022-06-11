@@ -3,7 +3,9 @@ title: Na spánek
 contentType: prose
 ---
 
-     _Ó sladký synu Mlčení a Noci,  
+<section>
+
+_Ó sladký synu Mlčení a Noci,  
 otče těch tvarů, již se rozplývají,  
 jež duše často k Amorovu ráji  
 vedeš svou stopou v mlčenlivých krocích,  
@@ -17,3 +19,5 @@ mé siré touze dát své utišení.
      A jestli v tobě toho tvaru není  
 dáno mi užít, po němž prahnu v chtění,  
 užiji, smrti, aspoň zobrazení._
+
+</section>

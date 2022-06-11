@@ -3,7 +3,13 @@ title: Vysvětlivky
 contentType: prose
 ---
 
+<section>
+
 Z četných mytologických narážek v textu jsou komentovány jen ty, které jsou dnešnímu čtenáři již méně běžné. Dataci jednotlivých básní, respektive zařazení do sbírek, vydaných ještě za autorova života a v jeho uspořádání, většinou neuvádíme: Chronologie je ve většině případů sporná. Básně porůznu vešly ve známost ještě před knižním vydáním sbírky a autor některé přesouval ze sbírky do sbírky.
+
+</section>
+
+<section>
 
 PÍSEŇ POLIBKŮ. První báseň, která získala mladému Marinovi věhlas. Kolovala po Neapoli, napsána před r. 1590, zahrnuta pak do knižního vydání „Veršů“ 1602.
 
@@ -20,6 +26,10 @@ MURTOLA LITERÁT – MURTOLŮV PORTRÉT. Dva sonety ze souboru posměšných b�
 ADÓNIS
 
 Téma eposu převzal Marino z antické báje o láskách Adónida, krásného syna kyperského krále Kinyry, a bohyně Venuše; nejznámější starověké zpracování čteme v desáté knize Ovidiových „Proměn“. Marino začal psát své zpracování příběhu v devadesátých letech šestnáctého století, pracoval na díle nepřetržitě až do poloviny r. 1622: Dedikace Marii Medicejské, vdově po francouzském králi Jindřichu IV. a po jeho smrti správkyni říše za nezletilého Ludvíka XIII., je datována v Paříži 20. srpna 1622. Kniha po různých obtížích vyšla 1623. V původním pojetí měla mít výpravná báseň tři zpěvy, ale neustálými přídavky a rozpracováními epizod se rozrostla nakonec na dvacet zpěvů o pěti tisících oktávových strof. Autor se pokoušel dodat jí dodatečnou autostylizací platnost díla, proniknutého morálkou: „Nezkrocené potěšení končí v strázni.“ Text sám nás neopravňuje k domněnkám, že to myslil vážně. Adónis je po výtce erotická báseň, místy dost odvážná, ale nepřestřelující do lascivností. Fabule je dějově chudá, průběh ústředního děje a jeho zápletka neudrží čtenáře v pozornosti, tím spíše, že jsou co chvíli zasuty přemírou epizódních odboček. Živost si bohatou básníkovou fantazií a melodikou verše zachovaly právě epizody, bez ohledu na souvislost celkového vyprávění. Uvádíme nejznámější a nejčastěji citované.
+
+</section>
+
+<section>
 
 _Slavičí zpěv_. Oktávy 32–54 sedmého zpěvu.
 
@@ -96,3 +106,5 @@ _Hraběti Fortunia__novi San Vitali_. Viz komentář k satirám na Murtolu. „
 _Nejjasnějšímu pánovi knížeti z Mantovy_ – _Nejjasnějšímu panu kardinálu Gonzagovi_. Dva dopisy z celé série na to téma a na různé adre­sy příznivců o aféře kolem satiry „Zem, kde lítají pečení holubi do huby“ (Cuccagna). Marino byl na savojském dvoře znenadání uvězněn, zprvu z neznámých důvodů. Pak vyšlo najevo, že pro tuto satiru, protože v ní prý zesměšnil Carla Emanuela a jeho dvůr. Denunciace byla falešná: Marino tu práci, ostatně literárně nevalné ceny, napsal a zveřejnil dávno předtím, než přišel do Turína a poznal tamní poměry. Přesto zůstal básník asi rok ve vězení, než byl propuštěn díky přímluvám vznešených příznivců (mezi nimi knížete z Mantovy, kardinála Aldobrandiniho, neapolského místokrále a anglického a francouzského velvyslance). Získal si pak znovu přízeň savojského vévody – ale dal přednost pozvání do Francie a tam také dal tisknout „Adónida“.
 
 _Hraběti For__tunianovi San Vitali_. Dva z posledních Marinových dopisů. V prvním narážky na Marinovy literární partnery. Druhý psán necelý rok před autorovou smrtí.
+
+</section>

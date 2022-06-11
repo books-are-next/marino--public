@@ -3,6 +3,8 @@ title: Kousavý polibek
 contentType: prose
 ---
 
+<section>
+
 _Jsem lačna políbení tvých;  
 líbej, Ergaste milující,  
 aby od zubů kousavých  
@@ -12,3 +14,5 @@ zvěst polibků tvých a mou hanu.
 Ach! Ty koušeš a nelíbáš,  
 poranil jsi mě, ach, svým znamením!  
 Kéž zemřu, jestli kdy tě políbím!_
+
+</section>
