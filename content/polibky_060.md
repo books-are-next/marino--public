@@ -1,6 +1,6 @@
 ---
 title: Nejjasnějšímu panukardinálu Gonzagovi
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,11 @@
 ---
 title: Toužený polibek
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Polibek, jedno políbení jen!  
+Polibek, jedno políbení jen!  
 Fillido, dáš? Či má být uloupen?  
 Jestli ho dáš, měj za tu slast můj dík.  
 Sladký polibek přec zasáhne jak šíp  
@@ -15,6 +15,6 @@ sladký bude, protože sladké není
 méně než dar, kradené políbení.  
 Polibek, jedno políbení jen,  
 loupež či dar, ach, co já vím,  
-ten učiní mě vždycky blaženým!_
+ten učiní mě vždycky blaženým!
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Nejjasnějšímu pánoviknížeti z Mantovy
-contentType: prose
+contentType: poetry
 ---
 
 <section>

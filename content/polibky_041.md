@@ -1,13 +1,13 @@
 ---
 title: Alchymista
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Dlouhý čas, v temné díře zahrabán,  
+Dlouhý čas, v temné díře zahrabán,  
 jsem ve křivuli transmutoval zlato,  
 můj um, jej získat, stačil však jen na to,  
-co v portmonce měl vévoda, můj pán._
+co v portmonce měl vévoda, můj pán.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Na smrt své matky
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Vracím se v pláči zas pozdravit ten kámen,  
+Vracím se v pláči zas pozdravit ten kámen,  
 kde ta, co devět lun mě v klíně zavírala,  
 uzavřen nechala svůj popel v stínu thuje.  
 Mír tobě, prosím, tobě žalem zmámen  
@@ -26,13 +26,13 @@ jež tě do mrazivé tmy urny uzavřela
 a chtěla dokonce, abych já zavřel svou dlaní  
 ústa, odkud tak sladká, tak hojná k nespočítání  
 míval jsem slova a polibky pro svoje vykoupení:  
-teď ležíš utěšena ve věčném odmlčení._
+teď ležíš utěšena ve věčném odmlčení.
 
 </section>
 
 <section>
 
-_Matko, ty ležíš? Vskutku tedy jasem  
+Matko, ty ležíš? Vskutku tedy jasem  
 dvou světel tvých, zsinalých ve tmě šeré,  
 navždy mým očím denní záře hasne?  
 Nad otcem lkal jsem před kratičkým časem,  
@@ -53,13 +53,13 @@ Když poklad, marně oplakaný, vzali,
 o nic nedbám, nic není po libosti,  
 žádná, krom smrti, není vhodná dosti  
 sladkost, aby mi žluč mou rozpustila,  
-když upírá sem oko luna bílá._
+když upírá sem oko luna bílá.
 
 </section>
 
 <section>
 
-_Vím, když jsi přítěž míjející v čase  
+Vím, když jsi přítěž míjející v čase  
 odvrhla, matko, a z tvých vlasů hbitě  
 závistná ruka odtrhla hřívu žití,  
 žes Tvůrci pěti světů radostná se  
@@ -80,13 +80,13 @@ tys v nadzemské království andělů vystoupila;
 já, stísněn bolestí, marním dny navzdor době;  
 já padl a ležím, dokud se nevrátím k tobě,  
 a nenávidím slunce, vždyť nemaje tvůj svit,  
-čím bych byl neznaven, co mohu ještě zřít?_
+čím bych byl neznaven, co mohu ještě zřít?
 
 </section>
 
 <section>
 
-_Bloud je a ubohý, kdo svoji naděj zdejší  
+Bloud je a ubohý, kdo svoji naděj zdejší  
 upíná na tebe, ach, světe klamavý,  
 od strázni k radosti stále tak blízko tu je.  
 Jak lehkou nohou jdou hodiny nejzadnější  
@@ -107,13 +107,13 @@ stále si naříkat, kdy k hvězdám v odevzdání
 líc, srdci zvadlému dávajíc průchod, zírá  
 a volat po všechny hodiny v lada širá:  
 jak surový osud, nebesa dobrotivá,  
-jak štědrá příroda, smrt lakomá a chtivá!_
+jak štědrá příroda, smrt lakomá a chtivá!
 
 </section>
 
 <section>
 
-_Dobře vzpomínám, kdy hbitě, lehce zcela  
+Dobře vzpomínám, kdy hbitě, lehce zcela  
 rozepjal prvně z údolí slzavého  
 tvůj duch peruti k nebi nad hvězdami,  
 na sladkém loži obklopenas dlela  
@@ -134,13 +134,13 @@ i já jsem zaplakal přebolestným hlasem;
 tys neplakala a zbožnými světly svými,  
 rozjasňujíc temnoty vůkol jimi,  
 s tváří už jasnou, již bolest nekalila,  
-do srdce všechen krutý žal jsi skryla._
+do srdce všechen krutý žal jsi skryla.
 
 </section>
 
 <section>
 
-_A jak (ach, ubožák!), jak jenom já teď mohu  
+A jak (ach, ubožák!), jak jenom já teď mohu  
 vzpomínat bez vzdechů posledních slov tvých vroucích,  
 jež v hloubku vryty jsou do srdce mého!  
 „Ach bože, synu, zůstaň, já odcházím teď k Bohu,  
@@ -161,13 +161,13 @@ když Smrt svůj chlad a mráz na tebe rozestřela,
 viděl jsem temným mhy závojem zakrývané,  
 sil údy viděl jsem zbavené, zmrazované  
 tělo pak padnout v zem, bez vlády, bez pomoci,  
-sevřen těžkým snem a nekonečnou nocí._
+sevřen těžkým snem a nekonečnou nocí.
 
 </section>
 
 <section>
 
-_Zřel jsem to, běda! proč viděl jsem a svoje  
+Zřel jsem to, běda! proč viděl jsem a svoje  
 též nezavřel jsem pláčem oči žalné,  
 než vidět, jak tvé zavřené zem svírá?  
 Ach, jak bych rád, jít s mými i ty tvoje,  
@@ -184,13 +184,13 @@ a září z něj jen jeden zásvit zbylý?
 Ani trýzni by smysly nebránily,  
 protože já byl přemožen v té chvíli:  
 nechtěla však Smrt tvrdá, pyšně němá,  
-být v jediném dni milosrdná k dvěma._
+být v jediném dni milosrdná k dvěma.
 
 </section>
 
 <section>
 
-_Jiný, ach, od těch dob pokrm a vyražení  
+Jiný, ach, od těch dob pokrm a vyražení  
 než pláč a trápení a tíži trpké strasti  
 můj život ubohý neměl po dobu celou  
 a není div už, že mé smutné obdaření  
@@ -211,13 +211,13 @@ Však lepší, matko, je, abych žil, prahnul stále,
 abych vytrpěl trest své temné věčné noci  
 a zvěčnil trýzněmi život, jak budu moci  
 a dokud od tebe vzdálen tu pozůstávám,  
-jak jsem tě živou ctil, mrtvou tě oplakávám._
+jak jsem tě živou ctil, mrtvou tě oplakávám.
 
 </section>
 
 <section>
 
-_Ty však, ó duše, jež trávíš čas svůj krásný  
+Ty však, ó duše, jež trávíš čas svůj krásný  
 nad nehybným okruhem Všehomíra,  
 oproštěna od kalu pozemskosti,  
 kde Amorů dav, planoucí a jasný  
@@ -238,13 +238,13 @@ jak růžemi a fialkami zpola
 truchle rukou zkrášluji k poctě jeho.  
 Přijmi s potěchou ze sídla vysokého  
 slitovné dílo s lijákem, jenž zní ti,  
-když rozsévám ti pláče víc než kvítí._
+když rozsévám ti pláče víc než kvítí.
 
 </section>
 
 <section>
 
-_Mlč, mlč, kanzóno: ať poustoupí síla  
+Mlč, mlč, kanzóno: ať poustoupí síla  
 chladu inkoustu žáru slz, jež žhavá  
 vylévá bolest, v srdce bodající;  
 že verš je pro ni nedostačující,  
@@ -252,6 +252,6 @@ vylévá bolest, v srdce bodající;
 Však s žilou básnickou, jež očím dána byla,  
 by lásce rovná bolest se projevila,  
 co nevyjádří ruka na papíře,  
-rci, vlhký jazyk pláče v pravé míře._
+rci, vlhký jazyk pláče v pravé míře.
 
 </section>

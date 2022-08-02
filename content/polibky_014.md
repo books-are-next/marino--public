@@ -1,11 +1,11 @@
 ---
 title: Žena, která šije
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je šíp, je šíp, ne jehla bodající,  
+Je šíp, je šíp, ne jehla bodající,  
 čím koná práci svou  
 nová Arachné lásky, zbožňovaná mnou.  
 A tak, jak vyšívá překrásné plátno své,  
@@ -14,6 +14,6 @@ Ubohý! a ta, ta sem tam létající
 krvavá nit, jíž odvíjí,  
 trhá a zauzlí, ztenčí a zavíjí ruka,  
 jež krásou svítí,  
-je nití mého žití._
+je nití mého žití.
 
 </section>

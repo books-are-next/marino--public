@@ -1,11 +1,11 @@
 ---
 title: Sen
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na stinnou noc přichází zas má paní  
+Na stinnou noc přichází zas má paní  
 taková, jak ji formuji v svém snění,  
 a hrubým slohem dát chci zpodobení,  
 jak neznám ji, tak plná slitování.  
@@ -18,6 +18,6 @@ Nešťastníku! v polibku echa není
 a slast i spánek prchá, unikaje,  
      Proradná lásko, v tomhle utrpení,  
 jak čekat mám, že ta snad slitovná je,  
-co bere mi i lhaná potěšení?_
+co bere mi i lhaná potěšení?
 
 </section>

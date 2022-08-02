@@ -1,6 +1,6 @@
 ---
 title: VRAŽDĚNÍNEVIŇÁTEK
-contentType: prose
+contentType: poetry
 ---
 
 

@@ -1,11 +1,11 @@
 ---
 title: Vzdálenost
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Odešlo mi blaho moje,  
+Odešlo mi blaho moje,  
 ztratil jsem své srdce. Běda! Jakým nyní žitím  
 podepřu já žití svoje?  
 Ach, jak zůstalo v tu chvíli  
@@ -127,6 +127,6 @@ odteď vašich tónů řad
 jak to, že neuvolníte, či nepláčete napořád?  
      A ty, proč se nevracíš,  
 Slunce očím milé?  
-Ach, co děláš? Kdo tě přijal? Kde jsi v tyto chvíle?_
+Ach, co děláš? Kdo tě přijal? Kde jsi v tyto chvíle?
 
 </section>
