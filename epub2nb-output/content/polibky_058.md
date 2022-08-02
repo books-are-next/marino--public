@@ -1,6 +1,6 @@
 ---
 title: Hraběti Fortunanovi San Vitali
-contentType: prose
+contentType: poetry
 ---
 
 <section>

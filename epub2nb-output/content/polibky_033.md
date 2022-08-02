@@ -1,11 +1,11 @@
 ---
 title: Pozvání do stínu
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Teď, kdy vzduch i zem žhnou a planou bleskem  
+Teď, kdy vzduch i zem žhnou a planou bleskem  
 a euros i vánek sotva dýší  
 a, soupeř nebes, kam jen vzhlédnu v tiši,  
 pod šípy slunce, moře, blýská leskem;  
@@ -18,6 +18,6 @@ písčinu svěží — břeh zeleně je pln —
 po celý dlouhý čas větvoví scéna stinná.  
      Se mnou se potěšíš, jen z vod a bílých dun  
 uvidíš laškovat, kde břeh se k výši vzpíná,  
-rybu s ptákem a stín se stříbrem vln._
+rybu s ptákem a stín se stříbrem vln.
 
 </section>

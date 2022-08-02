@@ -1,6 +1,6 @@
 ---
 title: POLIBKY
-contentType: prose
+contentType: poetry
 ---
 
 

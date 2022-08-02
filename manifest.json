@@ -1,0 +1,1306 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Polibky",
+  "author": "Giambattista Marino",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "marino-polibky-d84213b",
+  "revision": "d84213b",
+  "readingOrder": [
+    "promo.html",
+    "polibky_005.html",
+    "polibky_006.html",
+    "polibky_007.html",
+    "polibky_008.html",
+    "polibky_009.html",
+    "polibky_010.html",
+    "polibky_011.html",
+    "polibky_012.html",
+    "polibky_013.html",
+    "polibky_014.html",
+    "polibky_015.html",
+    "polibky_016.html",
+    "polibky_017.html",
+    "polibky_018.html",
+    "polibky_019.html",
+    "polibky_020.html",
+    "polibky_021.html",
+    "polibky_022.html",
+    "polibky_023.html",
+    "polibky_024.html",
+    "polibky_025.html",
+    "polibky_026.html",
+    "polibky_027.html",
+    "polibky_028.html",
+    "polibky_029.html",
+    "polibky_030.html",
+    "polibky_031.html",
+    "polibky_032.html",
+    "polibky_033.html",
+    "polibky_034.html",
+    "polibky_035.html",
+    "polibky_036.html",
+    "polibky_037.html",
+    "polibky_038.html",
+    "polibky_039.html",
+    "polibky_040.html",
+    "polibky_041.html",
+    "polibky_042.html",
+    "polibky_043.html",
+    "polibky_044.html",
+    "polibky_045.html",
+    "polibky_046.html",
+    "polibky_047.html",
+    "polibky_048.html",
+    "polibky_049.html",
+    "polibky_050.html",
+    "polibky_051.html",
+    "polibky_052.html",
+    "polibky_053.html",
+    "polibky_054.html",
+    "polibky_055.html",
+    "polibky_056.html",
+    "polibky_057.html",
+    "polibky_058.html",
+    "polibky_059.html",
+    "polibky_060.html",
+    "polibky_061.html",
+    "polibky_062.html",
+    "polibky_063.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 02 2022 07:27:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1659425220275
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "polibky_005.html",
+      "toc": []
+    },
+    {
+      "title": "Cizelér verše a snů",
+      "file": "polibky_005.html",
+      "words": 2990,
+      "chars": 20380,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "polibky_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cizelér verše a snů",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "POLIBKY",
+      "file": "polibky_006.html",
+      "words": 1,
+      "chars": 7,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "polibky_005.html",
+      "next": "polibky_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POLIBKY",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píseň polibků",
+      "file": "polibky_007.html",
+      "words": 515,
+      "chars": 2855,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 3,
+      "prev": "polibky_006.html",
+      "next": "polibky_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píseň polibků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Válka polibků",
+      "file": "polibky_008.html",
+      "words": 44,
+      "chars": 265,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 4,
+      "prev": "polibky_007.html",
+      "next": "polibky_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Válka polibků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kousavý polibek",
+      "file": "polibky_009.html",
+      "words": 47,
+      "chars": 268,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 5,
+      "prev": "polibky_008.html",
+      "next": "polibky_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kousavý polibek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Toužený polibek",
+      "file": "polibky_010.html",
+      "words": 61,
+      "chars": 349,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 6,
+      "prev": "polibky_009.html",
+      "next": "polibky_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Toužený polibek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žádaný polibek",
+      "file": "polibky_011.html",
+      "words": 48,
+      "chars": 257,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 7,
+      "prev": "polibky_010.html",
+      "next": "polibky_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žádaný polibek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Neopětované polibky",
+      "file": "polibky_012.html",
+      "words": 91,
+      "chars": 505,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 8,
+      "prev": "polibky_011.html",
+      "next": "polibky_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Neopětované polibky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milostný dopis",
+      "file": "polibky_013.html",
+      "words": 58,
+      "chars": 328,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 9,
+      "prev": "polibky_012.html",
+      "next": "polibky_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milostný dopis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žena, která šije",
+      "file": "polibky_014.html",
+      "words": 56,
+      "chars": 305,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 10,
+      "prev": "polibky_013.html",
+      "next": "polibky_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žena, která šije",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mlčení, které mluví",
+      "file": "polibky_015.html",
+      "words": 52,
+      "chars": 284,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 11,
+      "prev": "polibky_014.html",
+      "next": "polibky_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Mlčení, které mluví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zrcadlo",
+      "file": "polibky_016.html",
+      "words": 54,
+      "chars": 325,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 12,
+      "prev": "polibky_015.html",
+      "next": "polibky_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zrcadlo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zblednutí milované",
+      "file": "polibky_017.html",
+      "words": 46,
+      "chars": 302,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 13,
+      "prev": "polibky_016.html",
+      "next": "polibky_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zblednutí milované",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cop vyšívaný perlami",
+      "file": "polibky_018.html",
+      "words": 51,
+      "chars": 278,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 14,
+      "prev": "polibky_017.html",
+      "next": "polibky_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cop vyšívaný perlami",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na ústa své paní",
+      "file": "polibky_019.html",
+      "words": 90,
+      "chars": 505,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 15,
+      "prev": "polibky_018.html",
+      "next": "polibky_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na ústa své paní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na ňadra své paní",
+      "file": "polibky_020.html",
+      "words": 98,
+      "chars": 536,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "polibky_019.html",
+      "next": "polibky_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na ňadra své paní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žena před zrcadlem",
+      "file": "polibky_021.html",
+      "words": 100,
+      "chars": 545,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 17,
+      "prev": "polibky_020.html",
+      "next": "polibky_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žena před zrcadlem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Svár očí a úst",
+      "file": "polibky_022.html",
+      "words": 95,
+      "chars": 501,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 18,
+      "prev": "polibky_021.html",
+      "next": "polibky_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Svár očí a úst",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nedokonalé potěšení",
+      "file": "polibky_023.html",
+      "words": 93,
+      "chars": 522,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 19,
+      "prev": "polibky_022.html",
+      "next": "polibky_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nedokonalé potěšení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slova",
+      "file": "polibky_024.html",
+      "words": 85,
+      "chars": 536,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 20,
+      "prev": "polibky_023.html",
+      "next": "polibky_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slova",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Láska bázlivá a mlčenlivá",
+      "file": "polibky_025.html",
+      "words": 100,
+      "chars": 588,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 21,
+      "prev": "polibky_024.html",
+      "next": "polibky_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Láska bázlivá a mlčenlivá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Žárlivost",
+      "file": "polibky_026.html",
+      "words": 93,
+      "chars": 530,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "polibky_025.html",
+      "next": "polibky_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Žárlivost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bludné kštice",
+      "file": "polibky_027.html",
+      "words": 32,
+      "chars": 220,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 23,
+      "prev": "polibky_026.html",
+      "next": "polibky_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bludné kštice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pláč a smích",
+      "file": "polibky_028.html",
+      "words": 105,
+      "chars": 548,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 24,
+      "prev": "polibky_027.html",
+      "next": "polibky_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pláč a smích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční příhoda",
+      "file": "polibky_029.html",
+      "words": 107,
+      "chars": 592,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 25,
+      "prev": "polibky_028.html",
+      "next": "polibky_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční příhoda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noční klid",
+      "file": "polibky_030.html",
+      "words": 110,
+      "chars": 599,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 26,
+      "prev": "polibky_029.html",
+      "next": "polibky_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noční klid",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nymfa dojička",
+      "file": "polibky_031.html",
+      "words": 41,
+      "chars": 235,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "polibky_030.html",
+      "next": "polibky_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nymfa dojička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozstříknutá voda",
+      "file": "polibky_032.html",
+      "words": 44,
+      "chars": 246,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 28,
+      "prev": "polibky_031.html",
+      "next": "polibky_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozstříknutá voda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozvání do stínu",
+      "file": "polibky_033.html",
+      "words": 107,
+      "chars": 551,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 29,
+      "prev": "polibky_032.html",
+      "next": "polibky_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pozvání do stínu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lásky ryb",
+      "file": "polibky_034.html",
+      "words": 110,
+      "chars": 537,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 30,
+      "prev": "polibky_033.html",
+      "next": "polibky_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Lásky ryb",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na spánek",
+      "file": "polibky_035.html",
+      "words": 88,
+      "chars": 487,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 31,
+      "prev": "polibky_034.html",
+      "next": "polibky_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na spánek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen",
+      "file": "polibky_036.html",
+      "words": 95,
+      "chars": 486,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 32,
+      "prev": "polibky_035.html",
+      "next": "polibky_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzdálenost",
+      "file": "polibky_037.html",
+      "words": 660,
+      "chars": 3645,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 33,
+      "prev": "polibky_036.html",
+      "next": "polibky_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzdálenost",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hvězdy",
+      "file": "polibky_038.html",
+      "words": 297,
+      "chars": 1895,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 34,
+      "prev": "polibky_037.html",
+      "next": "polibky_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hvězdy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Leander",
+      "file": "polibky_039.html",
+      "words": 537,
+      "chars": 3034,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 35,
+      "prev": "polibky_038.html",
+      "next": "polibky_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Leander",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nosič",
+      "file": "polibky_040.html",
+      "words": 48,
+      "chars": 279,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 36,
+      "prev": "polibky_039.html",
+      "next": "polibky_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nosič",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Alchymista",
+      "file": "polibky_041.html",
+      "words": 28,
+      "chars": 156,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 37,
+      "prev": "polibky_040.html",
+      "next": "polibky_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Alchymista",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pasquino",
+      "file": "polibky_042.html",
+      "words": 74,
+      "chars": 384,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 38,
+      "prev": "polibky_041.html",
+      "next": "polibky_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pasquino",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Římská Lukrécie",
+      "file": "polibky_043.html",
+      "words": 46,
+      "chars": 270,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 39,
+      "prev": "polibky_042.html",
+      "next": "polibky_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Římská Lukrécie",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Básníčkovi",
+      "file": "polibky_044.html",
+      "words": 104,
+      "chars": 550,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 40,
+      "prev": "polibky_043.html",
+      "next": "polibky_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Básníčkovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Murtola literát",
+      "file": "polibky_045.html",
+      "words": 86,
+      "chars": 530,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 41,
+      "prev": "polibky_044.html",
+      "next": "polibky_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Murtola literát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Murtolův portrét",
+      "file": "polibky_046.html",
+      "words": 109,
+      "chars": 580,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 42,
+      "prev": "polibky_045.html",
+      "next": "polibky_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Murtolův portrét",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bída života",
+      "file": "polibky_047.html",
+      "words": 122,
+      "chars": 650,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 43,
+      "prev": "polibky_046.html",
+      "next": "polibky_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bída života",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na útěku z Neapole",
+      "file": "polibky_048.html",
+      "words": 105,
+      "chars": 571,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 44,
+      "prev": "polibky_047.html",
+      "next": "polibky_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na útěku z Neapole",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na smrt své matky",
+      "file": "polibky_049.html",
+      "words": 1373,
+      "chars": 7606,
+      "ideas": 204,
+      "role": "chapter",
+      "order": 45,
+      "prev": "polibky_048.html",
+      "next": "polibky_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na smrt své matky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z BÁSNĚ ADÓNIS",
+      "file": "polibky_050.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 46,
+      "prev": "polibky_049.html",
+      "next": "polibky_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z BÁSNĚ ADÓNIS",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavičí zpěv",
+      "file": "polibky_051.html",
+      "words": 1314,
+      "chars": 7426,
+      "ideas": 184,
+      "role": "chapter",
+      "order": 47,
+      "prev": "polibky_050.html",
+      "next": "polibky_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavičí zpěv",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Řeka vína",
+      "file": "polibky_052.html",
+      "words": 293,
+      "chars": 1670,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 48,
+      "prev": "polibky_051.html",
+      "next": "polibky_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Řeka vína",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ostrov spánku",
+      "file": "polibky_053.html",
+      "words": 933,
+      "chars": 5278,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 49,
+      "prev": "polibky_052.html",
+      "next": "polibky_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ostrov spánku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hra v šachy",
+      "file": "polibky_054.html",
+      "words": 3480,
+      "chars": 19665,
+      "ideas": 432,
+      "role": "chapter",
+      "order": 50,
+      "prev": "polibky_053.html",
+      "next": "polibky_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hra v šachy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VRAŽDĚNÍNEVIŇÁTEK",
+      "file": "polibky_055.html",
+      "words": 1,
+      "chars": 17,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 51,
+      "prev": "polibky_054.html",
+      "next": "polibky_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VRAŽDĚNÍNEVIŇÁTEK",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úryvekz II. knihy, stanzy 48–70",
+      "file": "polibky_056.html",
+      "words": 1358,
+      "chars": 7812,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 52,
+      "prev": "polibky_055.html",
+      "next": "polibky_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úryvekz II. knihy, stanzy 48–70",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Z KORESPONDENCE",
+      "file": "polibky_057.html",
+      "words": 2,
+      "chars": 15,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 53,
+      "prev": "polibky_056.html",
+      "next": "polibky_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Z KORESPONDENCE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hraběti Fortunanovi San Vitali",
+      "file": "polibky_058.html",
+      "words": 961,
+      "chars": 5658,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 54,
+      "prev": "polibky_057.html",
+      "next": "polibky_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hraběti Fortunanovi San Vitali",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejjasnějšímu pánoviknížeti z Mantovy",
+      "file": "polibky_059.html",
+      "words": 322,
+      "chars": 1999,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 55,
+      "prev": "polibky_058.html",
+      "next": "polibky_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejjasnějšímu pánoviknížeti z Mantovy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejjasnějšímu panukardinálu Gonzagovi",
+      "file": "polibky_060.html",
+      "words": 234,
+      "chars": 1422,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 56,
+      "prev": "polibky_059.html",
+      "next": "polibky_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejjasnějšímu panukardinálu Gonzagovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hraběti Fortunianovi San Vitali",
+      "file": "polibky_061.html",
+      "words": 564,
+      "chars": 3278,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 57,
+      "prev": "polibky_060.html",
+      "next": "polibky_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hraběti Fortunianovi San Vitali",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hraběti Fortunianovi San Vitali",
+      "file": "polibky_062.html",
+      "words": 383,
+      "chars": 2291,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 58,
+      "prev": "polibky_061.html",
+      "next": "polibky_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hraběti Fortunianovi San Vitali",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vysvětlivky",
+      "file": "polibky_063.html",
+      "words": 1224,
+      "chars": 8091,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 59,
+      "prev": "polibky_062.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vysvětlivky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 137,
+      "chars": 920,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "polibky_063.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 20510,
+      "chars": 121213,
+      "ideas": 2207
+    },
+    "chapters": {
+      "words": 20368,
+      "chars": 120258,
+      "ideas": 2186
+    }
+  }
+}

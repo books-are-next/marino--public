@@ -1,11 +1,11 @@
 ---
 title: Pláč a smích
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdykoliv buď pláče či se směje v tichu  
+Kdykoliv buď pláče či se směje v tichu  
 ta, které můj pláč je důvod k pousmání,  
 sladce vždycky trápí, sladce vždycky zraní,  
 v pláči oblažuje a pak ničí v smíchu.  
@@ -18,6 +18,6 @@ plamen chrlíte, jenž nebe zapaluje,
 vody vyléváte, v něž se Láska noří,  
      jak, že mě smrt míjí, jenom možné tu je,  
 když, zatímco pláč lék dává srdce hoři,  
-smích se vrací zpět a rány obnovuje?_
+smích se vrací zpět a rány obnovuje?
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: Hraběti Fortunianovi San Vitali
-contentType: prose
+contentType: poetry
 ---
 
 <section>

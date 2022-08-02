@@ -1,6 +1,6 @@
 ---
 title: Cizelér verše a snů
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,11 @@
 ---
 title: Milostný dopis
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Bílý liste, myšlenek mých  
+Bílý liste, myšlenek mých  
 věrný tajemníku, půjdeš nyní sám,  
 kde otevře tě ruka, jež otevře mi hruď.  
 Ach přeblažen, ach šťasten buď,  
@@ -14,6 +14,6 @@ přijetí dojdeš v láskyplném klíně.
 Ale oč více potom budeš mít,  
 jestli, chtějíc tvé uzly rozuzlit,  
 skloní svá ústa níž a víc:  
-z perel a rubínů polibků na tisíc!_
+z perel a rubínů polibků na tisíc!
 
 </section>

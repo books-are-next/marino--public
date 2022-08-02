@@ -1,11 +1,11 @@
 ---
 title: Slova
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Živými záblesky smíchu z nebes ráje,  
+Živými záblesky smíchu z nebes ráje,  
 které kalným živlům ve zlém rozkacení  
 při vzpourách a svárech vrací uklidnění,  
 radostnými ústy, tváří, v níž jas hraje,  
@@ -18,6 +18,6 @@ v kterých ozývá se rajská harmonie,
 jasným hlasem, jejž dá chvíle uvolněná  
      zlomenými vzdechy, duchem lásky své,  
 Lilia rozpráví. Slyš, duše zkormoucená!  
-Ach, jak šťastná ztráta, srdce ztracené!_
+Ach, jak šťastná ztráta, srdce ztracené!
 
 </section>

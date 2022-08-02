@@ -1,11 +1,11 @@
 ---
 title: Noční příhoda
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Skřípavý východ jsem otevřel a štěkající z prahu  
+Skřípavý východ jsem otevřel a štěkající z prahu  
 divoký hlídač vyběhl a pokousal mi nohu.  
 Bděly služky a hlídaly, když luna na oblohu  
 vyšla, jasná jak nikdy dřív, nastoupit noční dráhu.  
@@ -18,6 +18,6 @@ co v dvou Sluncích svých světel shromáždila,
 byl jejich zrak k slepotě oslněn.  
      Přikryl mě Amor křídly, či to byla  
 mlha vzdechů, jíž byl jsem obestřen,  
-tak hustá, že mě očím druhých skryla?_
+tak hustá, že mě očím druhých skryla?
 
 </section>

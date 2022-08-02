@@ -1,11 +1,11 @@
 ---
 title: Noční klid
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Pozoruj moře, Dratone, teď, kdy v každém snad  
+Pozoruj moře, Dratone, teď, kdy v každém snad  
 břehu jeho vítr mlčí, dřímá vlna spíc,  
 Noc na nebi tisíce hvězd, tisíce a víc,  
 rozvíjí bohatý, temný, azurový šat.  
@@ -18,6 +18,6 @@ mezi hravé nymfy nebe Luna tancovat.
 hvězdy v ryby proměněné, ryby v hvězdy zas.  
      Tak čisté těkavé dno k nám zírá dokořán,  
 že mezi tolika světly blýská výše jas:  
-— Zde je v nebe krystalové změněn oceán._
+— Zde je v nebe krystalové změněn oceán.
 
 </section>

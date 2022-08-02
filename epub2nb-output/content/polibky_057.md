@@ -1,6 +1,6 @@
 ---
 title: Z KORESPONDENCE
-contentType: prose
+contentType: poetry
 ---
 
 

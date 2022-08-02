@@ -1,11 +1,11 @@
 ---
 title: Bída života
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Otevře člověk ubožák, sotva se zrodí v tu chvíli  
+Otevře člověk ubožák, sotva se zrodí v tu chvíli  
 v tomto pozemském životě, tak plném utrpení,  
 dřív než na Slunce oči k pláči a ihned po zrození  
 pevně ho obemkne povijan, kterým ho uvěznili.  
@@ -18,6 +18,6 @@ námah a smrtí, než zestárlý svůj bok
 ohnutý, znavený opře si o dřevo chabé jak dým?  
      Ostatky jen úzký kámen zavře za nemnohý rok  
 rychle a navždy, že vzdychaje potichu dím:  
-— Od kolébky k hrobu jen krátký je krok! —_
+— Od kolébky k hrobu jen krátký je krok! —
 
 </section>

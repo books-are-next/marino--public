@@ -1,11 +1,11 @@
 ---
 title: Leander
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Hluboká noc rozepjala  
+Hluboká noc rozepjala  
 křídla, v letu mlčenlivá,  
 jen chraplavým rachocením břehy zněly,  
 když v moři, z nějž bouře řvala,  
@@ -111,6 +111,6 @@ A v tu chvíli v pláči její ústa promluvila:
 padla; pláž jí hrobem byla.  
 Tak plující Lykón v moři zpíval  
 a nebylo rybáře, jenž v tísni  
-neproléval by své slzy při té písni._
+neproléval by své slzy při té písni.
 
 </section>
