@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marino-polibky-d84213b",
-  "revision": "d84213b",
+  "identifier": "marino-polibky-cb344e6",
+  "revision": "cb344e6",
   "readingOrder": [
     "promo.html",
     "polibky_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Aug 02 2022 07:27:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659425220275
+    "date": "Thu Sep 29 2022 21:29:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486946162
   },
   "documents": [
     {
@@ -1214,7 +1214,7 @@
       "title": "Hraběti Fortunianovi San Vitali",
       "file": "polibky_061.html",
       "words": 564,
-      "chars": 3278,
+      "chars": 3279,
       "ideas": 7,
       "role": "chapter",
       "order": 57,
@@ -1274,7 +1274,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 137,
-      "chars": 920,
+      "chars": 921,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1294,12 +1294,12 @@
   "totals": {
     "all": {
       "words": 20510,
-      "chars": 121213,
+      "chars": 121215,
       "ideas": 2207
     },
     "chapters": {
       "words": 20368,
-      "chars": 120258,
+      "chars": 120259,
       "ideas": 2186
     }
   }
