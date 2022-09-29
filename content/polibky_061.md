@@ -9,7 +9,7 @@ V krátkosti Vám opakuji, že balíček, který mi byl poslán po panu Cavalco
 
 Já sloužím, o tom není pochyby, ale nemohu se stydět za svou službu, protože sloužím jednomu z prvních králů světa, a dodávám, že je tu mnoho knížat, která by považovala za svou slávu sloužit stejným způsobem. Dva tisíce skudů trvalého platu mimo mimořádné odměny a být osvobozen od jakéhokoliv závazku sloužit jako čestný doprovod jsou velice čestné podmínky a v Římě jsou kardinálové, kteří nemají tolik. Nu dobrá, nechme už toho. Jestli chcete poslat punčošky, budou vítané, protože to mi připadá velice snadné: udělat potěšení příteli a mít z toho užitek.
 
-Mám v ruce Boccaccia v Giolitově kvartovém vydání s vyobrazeními právě jako to, které jste míval svého času v Padově. Schovávám je pro Vás a pošlu je hned, jakmile mi dáte zprávu, jakou cestou a na koho je mám adresovat. Byl bych je poslal touto poštou, ale mám obavu, že by se ztratilo. A je zapotřebí upozornit, kdy dorazí do Parmy nebo pocestuje přes jiné italské město, protože \[…\][1](./resources/undefined) do toho budou strkat nos. Pokud jde o díla, budu pilný, ale myslím, že se tu najdou obtížně, vyjma ve franštině. Jestli je chcete v tomto jazyce, neopomenu poslat je. Panu Spadovi se doporoučím do přízně a posílám mu míru obrázku, po kterém toužím. Ale protože toužím po výsledku, a ne po slovech, prosím, abyste na něho naléhal za mne a abyste mi sdělil cenu, protože ihned pošlu peníze.
+Mám v ruce Boccaccia v Giolitově kvartovém vydání s vyobrazeními právě jako to, které jste míval svého času v Padově. Schovávám je pro Vás a pošlu je hned, jakmile mi dáte zprávu, jakou cestou a na koho je mám adresovat. Byl bych je poslal touto poštou, ale mám obavu, že by se ztratilo. A je zapotřebí upozornit, kdy dorazí do Parmy nebo pocestuje přes jiné italské město, protože \[…\][^1] do toho budou strkat nos. Pokud jde o díla, budu pilný, ale myslím, že se tu najdou obtížně, vyjma ve franštině. Jestli je chcete v tomto jazyce, neopomenu poslat je. Panu Spadovi se doporoučím do přízně a posílám mu míru obrázku, po kterém toužím. Ale protože toužím po výsledku, a ne po slovech, prosím, abyste na něho naléhal za mne a abyste mi sdělil cenu, protože ihned pošlu peníze.
 
 Pokud jde o „Adonida“, během pár dní se dovíte, jestli se chvástám. Toužím vědět, jak pokračuje Stigliani a jestli opravdu tiskne projevy proti mně; a ujišťuji vás, že se postarám, aby se kousal do pysku. Don Lorenzo Scoto je vzácný pán, miluji ho a to ať Vám stačí. Nemusíte hledat jeho genealogii. Je almužníkem nejjasnějšího knížete z Piemontu a je velice nadaný. Končím, protože mám naspěch. A líbám Vám ruku.
 
@@ -20,7 +20,5 @@ Pokud jde o „Adonida“, během pár dní se dovíte, jestli se chvástám. T
 Paříž 1620
 
 * * *
-
-_[1](./resources/undefined) Mezera v textu. Snad doplnit na: inkvizitoři._
-
+[^1]: Mezera v textu. Snad doplnit na: inkvizitoři.
 </section>
