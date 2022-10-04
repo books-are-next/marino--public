@@ -20,5 +20,7 @@ Pokud jde o „Adonida“, během pár dní se dovíte, jestli se chvástám. T
 Paříž 1620
 
 * * *
+
 [^1]: Mezera v textu. Snad doplnit na: inkvizitoři.
+
 </section>
