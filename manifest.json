@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "marino-polibky-d2d04aa",
-  "revision": "d2d04aa",
+  "identifier": "marino-polibky-bf1de0b",
+  "revision": "bf1de0b",
   "readingOrder": [
     "promo.html",
     "polibky_005.html",
@@ -74,8 +74,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:47:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664902036478
+    "date": "Tue Oct 04 2022 18:41:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908884352
   },
   "documents": [
     {
